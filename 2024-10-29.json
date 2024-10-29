@@ -1,0 +1,26 @@
+{
+  "name": "Bryan Parks",
+  "age": 30,
+  "address": {
+    "street": "Kona Way",
+    "city": "Deltulreb",
+    "state": "AR",
+    "zip": "64936"
+  },
+  "contact": {
+    "phone": "(839) 982-9768",
+    "servicePhone": "800421579"
+  },
+  "birthday": "1974-08-01T03:01:48.083Z",
+  "ip": "178.79.169.36",
+  "foo": "bar",
+  "profile": {
+    "about": "Dot hije adezuvmen jes poz iccu kudjenih kiz esiilo zor dum joep. Vopi umulahuv owfubi walha pu homfefde oti jemecfu tih zizuj hib postomi zajjefu suk vopi jojawom. Voltukde zel bujwo zuruzvek zom bez pe kuvow azu jeilica duggud waum.",
+    "bio": "Avuwam jajevhu woowumaf topvetju nib acapu opumi ro te sagod so fivu. Ot tepvorac vusnecuk heakuwo madmetod gocjun ansackon re rurol ceta epjuvma zut sor kitruno ukefe neag pel ilpid. Joho kuonu co ame ibbopof lo ko amiheci dovbudi fo ruw daril isetucru lemo mirahgok tiar."
+  },
+  "apiKey": "b18bdc025382714d7516b8ba60d2a96e14a53de07878a4e2a6edb1e95961c270",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
