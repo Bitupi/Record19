@@ -1,0 +1,26 @@
+{
+  "name": "Marion Sutton",
+  "age": 54,
+  "address": {
+    "street": "Sopeg Loop",
+    "city": "Cakemlac",
+    "state": "LA",
+    "zip": "51755"
+  },
+  "contact": {
+    "phone": "(534) 306-5912",
+    "servicePhone": "800994598"
+  },
+  "birthday": "1997-05-03T11:12:23.660Z",
+  "ip": "202.187.28.168",
+  "foo": "bar",
+  "profile": {
+    "about": "Nov ihbes lah lejlugiv pasaccim gaohwub pe le zijav vimsonec johroev lugfiwa cafciz tip cac su. Cocefeis det ceruzav ij pik ju wu nuoceli zevuro lahkiaj len efnoj givola laepioge ecoawogu. Ronzignu sakam la uklegfuf vufgewoj jonfozjo segdab ufes jur vo cazfod ge jovwic aremifla.",
+    "bio": "Vujohkar uspaf lecu ufihoja peicpu ju vievezi dobafaha wetke pisko re zuztup lu wubtozot kop we bipalaf lapuum. Kemeas ag tocohsa rojumoge aj bujuize pe ha ze tetav wovufzo umribi. Gatra comasu caogil sak vubi dopif oza zotihsel ute we dirototib aritejot monbowef oda ahuwkek ce capbed."
+  },
+  "apiKey": "a4b17ebc86d1aebbd72571d6b9ea311763a6055a5dcffa4091f6d3251cabb307",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
