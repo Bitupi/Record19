@@ -1,0 +1,26 @@
+{
+  "name": "Rena Ellis",
+  "age": 21,
+  "address": {
+    "street": "Rewluv Avenue",
+    "city": "Eneheja",
+    "state": "MD",
+    "zip": "55768"
+  },
+  "contact": {
+    "phone": "(377) 220-2603",
+    "servicePhone": "800424525"
+  },
+  "birthday": "1996-04-10T12:01:05.872Z",
+  "ip": "91.220.77.205",
+  "foo": "bar",
+  "profile": {
+    "about": "Unu gocjez veg soom wauw nabtu hirhit cu jehufda sasokav nil vohula wu lim vomaz jimsozat benvocvu guhatifu. Rizfetwor li cetsijwom imwumeda fatcifep vamahhus omzosab ohwivu arha tutcobme revlenow awi dalahig. Mezmuk nelrowo eze esjivow di jugup tuv sottojon sasafu povwefa ajrit onenu saf. Vub cosegwup kej ukpuw du peholvad do he oko pujzi vu hu uroip valnuznaj lizegac pu zep.",
+    "bio": "Avanaz wiuk tiekihi lehpij wizneezu fosafiko ebjepi ekgecvin ni sa acoavijub gutuno woz orfipuh tojdir adilu dujeva. Segizin zispiwa em lac hu ret hum ha amuwet moggiwba le mug sor taep wuflur osdumnoz. Liwide fen zev osa deubagem nokovoka fiv afetazmo za gafahli ceh ersov daj naheaco tadudwu pafru dem nojvidwe. Lo ka cuvnikoc ite gumizwok zonumius voosi jeg suttilew zehol teicma imu zoseliz faot zug demudfu zihsued moza."
+  },
+  "apiKey": "bb83943e3d8a1a76069baa5115a5b9ff7b089fa8769ad7ef045e6b21e6a751f5",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
