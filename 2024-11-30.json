@@ -1,0 +1,26 @@
+{
+  "name": "Josephine Nash",
+  "age": 25,
+  "address": {
+    "street": "Fabet Street",
+    "city": "Ranaje",
+    "state": "NV",
+    "zip": "93947"
+  },
+  "contact": {
+    "phone": "(813) 681-8372",
+    "servicePhone": "800483784"
+  },
+  "birthday": "1974-02-01T09:18:26.169Z",
+  "ip": "131.215.0.153",
+  "foo": "bar",
+  "profile": {
+    "about": "Roced locuhu mivur soz ba no tomaw le luk wun bolev cilanbur bizi. Mutiggog caotlup li omirov ifijake duw sep punbew zosu viw rihisno nupok. Em nuzamri tecbin uhu bikak lofveg ubvik ki jehis eta ko mus gapu hubuza pajtucu vicwujab wojzojap.",
+    "bio": "Ve pujuba dusento jet amihibi sed gezeul piaf sup feb vut tis. Rorgu fegiza pizcuzi pu wematov cop bawe tuv jef cu ta louci viop odubujnon fojizsu. Pap ke hov ruel ole fe vi kafgejgi guetihi ki sadaszum luz tuti jowin. Dirlige hevdesjoc towlu siceme ar le tezase aswi gifipa imo lefpor ebasi wa heriw kezwap."
+  },
+  "apiKey": "ba55f0bc2d0446f8c9a074440bb3d7bd7072c264d98b52dd950c3043bf7b4794",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
