@@ -1,0 +1,26 @@
+{
+  "name": "Genevieve Tucker",
+  "age": 28,
+  "address": {
+    "street": "Vastos Pike",
+    "city": "Imakabje",
+    "state": "AZ",
+    "zip": "18950"
+  },
+  "contact": {
+    "phone": "(214) 288-4360",
+    "servicePhone": "800818871"
+  },
+  "birthday": "1993-12-05T11:15:27.299Z",
+  "ip": "76.109.159.141",
+  "foo": "bar",
+  "profile": {
+    "about": "Soivmu isodo lel vod mekubok isiwpuh lo jet zevudage nodepopod ka mitom. Gusadaan apueh vejomu wekre siheeri uc jila pu ruc lovgi vantamew bo otekupo duskede se pat bo. Jipisew cejmogpo tedivteb dufpit po zecopu notpu mowjijgus faodiuz fafuhe sepivuc wa.",
+    "bio": "Ku cos keuh ot kak cu du wig hizsa ku lusi ibede me fozim wiusi ge madnemuk. Jeuvahe vu ocihiref pi hu na pantuufa bej cuapve eni fo femoz ri cagelofos ga. Wavsib evimuzzam nefpeb lael cu up oz jo bimelhi ja ovolo navu. Suine seev owcehuz dien lanemis burlico foz refu vazdu biwez coloside cej oseve cut zuhciuro es igi."
+  },
+  "apiKey": "b906016aeebeb6f0ce93bebd5a2529754a3f5110d937f75bcf31d9ef3cb77d99",
+  "currency": {
+    "code": "AWG",
+    "name": "Aruba Guilder"
+  }
+}
