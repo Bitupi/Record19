@@ -1,0 +1,26 @@
+{
+  "name": "Erik Byrd",
+  "age": 48,
+  "address": {
+    "street": "Zouk Point",
+    "city": "Acovonom",
+    "state": "HI",
+    "zip": "01111"
+  },
+  "contact": {
+    "phone": "(332) 826-1829",
+    "servicePhone": "800232252"
+  },
+  "birthday": "1999-03-15T09:32:57.201Z",
+  "ip": "247.80.15.90",
+  "foo": "bar",
+  "profile": {
+    "about": "Jubnin wehbuj liv jig ehfol mo fik irfuac eweza sono sim fas ku potkodiwi efwipuda. Ezosfez ni bujzugfa esepi hoj izofovu dob ziferse ejoinova fozi tu jiw sukle idikajam jovibuv rob ojeewo eto. Ebafa ruottul rom irhutha jumen wezomi lo gerfu mo fo ag vemruho juhwaj. Zopuhu it zibwa wizoza monohup fa icbu ap ema wanab ibage la cebu ovicca bewogo dudbegisa wolho howlel. Ug hi rahabgo ze somfutedo wahniuso kutahgag va vit asgo muog cohizok wowubi se vew levajvuc pupaj modwog.",
+    "bio": "Ube upi kijbi ruv te wet upawo imbeha kaguna honevdi pat debe foicobuv. Zal sod gatwu duzuf se wop vabco fuime sedan ujuda dimismug gu lutba. Rurij fobkif ame umumoz arwacew wepbubo bufbosbis du wasbit wasewsom movut meflogog hit pi cis mepu. Ha pupi tozwihin nicwa piktefa vu ifazaad zujbivume iwike fowa leog fohin. Muunu fe ka rufid jicace sethih jik bucacrig wekor ar ovifihhi ehikogo. Zevocma pophig atihe fugu gi pasba alomezi reesizas es zakjigu do nalefmif kees su duhfil pabesi."
+  },
+  "apiKey": "5f048c771ff380d0e7e8fd7fb0ca5bcec28dcca733193c46fb6f38a46c7c7ec8",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
